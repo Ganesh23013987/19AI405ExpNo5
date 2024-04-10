@@ -76,6 +76,7 @@ best_score=score
 #solution=generate_random_solution(answer)
 #print(evaluate(solution,answer))
 SimpleHillClimbing()
+
 ```
 <h2>Sample String:</h2> Artificial Intelligence
 <h2>Output:</h2>
