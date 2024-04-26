@@ -39,7 +39,7 @@ Feedback is provided in terms of heuristic function
 <p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
 
 <hr>
-<h2>Sample Input and Output</h2>
+<h2>PROGRAM:</h2>
 <p>
  import random<br>
 import string<br>
