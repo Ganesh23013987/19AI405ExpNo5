@@ -41,8 +41,9 @@ Feedback is provided in terms of heuristic function
 <hr>
 <h2>PROGRAM:</h2>
 <p>
- import random<br>
-import string<br>
+```
+import random
+import string
 def generate_random_solution(answer):<br>
     l=len(answer)<br>
     return [random.choice(string.printable) for _ in range(l)]<br>
@@ -71,7 +72,9 @@ def SimpleHillClimbing():<br>
         score=evaluate(new_solution,answer)   <br>
         if score<best_score:<br>
             best=new_solution<br>
-            best_score=score<br>
+            best_score=score
+         ```
+  <br>
 #answer="Artificial Intelligence"<br>
 #print(generate_random_solution(answer))<br>
 #solution=generate_random_solution(answer)<br>
